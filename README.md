@@ -179,8 +179,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors New
-Esteban De La Hoz - [Github](https://github.com/Esteban1891) / [Twitter](https://twitter.com/Esteban1891)  
-Eduardo Vega - [Github](https://github.com/EduardoVega04) || [Twitter](https://twitter.com/eduardo_vega04)
+Adeboye Victor [adeboyevictor18@gmail.com]
 
 ## License
 Public Domain. No copy write protection. 
